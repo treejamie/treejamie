@@ -5,7 +5,7 @@ I've been involved with the design, development and deployment of web applicatio
 
 ## Project Learn
 
-I'm always learning and so I've got an [active Github project(https://github.com/users/treejamie/projects/2) where you can see what I'm up to. I've tried to keep the project in sprints so you can see that "know what I'm doing" when working in as a software person in a team of people.
+I'm always learning and so I've got an [active Github project](https://github.com/users/treejamie/projects/2) where you can see what I'm up to. I've tried to keep the project in sprints so you can see that "know what I'm doing" when working in as a software person in a team of people.
 
 Thanks to the tree work I do, I've got a really nice balance in my life now and it's helped me focus in on a goal - to be the best programmer I can be. 
 
