@@ -7,8 +7,8 @@ I've been involved with the design, development and deployment of web applicatio
 
 I'm always learning and so I've got an [active Github project](https://github.com/users/treejamie/projects/2) where you can see what I'm up to. I've tried to keep the project in sprints so you can see that "know what I'm doing" when working in as a software person in a team of people.
 
-Thanks to the tree work I do, I've got a really nice balance in my life now and it's helped me focus in on a goal - to be the best programmer I can be. 
-
+Thanks to the tree work I do, I've got a really nice balance in my life now and it's helped me focus in on a goal - to be the best programmer I can be. I'm concentrating on learning Go, TypeScript, Rust and understanding web assembly.
+I've been using JavaScript since AJAX (via XMLHttpRequest) was the new kid on the block around 2005. I'm a bit rusty in JS though. I'm most solid in Python (_and Django_) which I've used since 2007 and Elixir (_ and phoenix_) since 2017. However, in tech world things move fast and so I'm brushing up on everything.
 <!--
 **treejamie/treejamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
