@@ -2,6 +2,8 @@
 
 I've been involved with the design, development and deployment of web applications and web "stuff" since the late 1990s. Around 2022 I bought an ancient semi-natural woodland (_ASNW_) and spent a few years becoming professionally trained (_NPTC and L3 Arb_) in arboriculture, woodland management and forestry. [Since then I've been spending my time working on/in/up trees (_body_) and writing/deploying code (_mind_)](https://treesandcode.substack.com/). I am in possession of a happy spirit thanks to trees and code. 
 
+[I am currently seeking gainful employment.](https://github.com/users/treejamie/projects/2/views/2?sliceBy%5Bvalue%5D=WEEK+8&pane=issue&itemId=103378525&issue=treejamie%7Cjc6%7C2)
+
 ## Project Learn
 
 [![an image of "project learn"](project-learn.png "project learn")](https://github.com/users/treejamie/projects/2)
