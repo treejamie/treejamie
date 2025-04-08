@@ -12,7 +12,13 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 ## Skills
 <details>
 
-<summary> Expand this section. It's long, so I've hidden it by default. </summary>
+<summary> 
+
+Expand this section. It's long, so I've hidden it by default. 
+
+One word of caution. This list has taken me over 27 years of career to develop. For the next 20 years of my career away from trees, I am specifically interested in being a programmer, maybe a lead / senior. I climb trees now, not career ladders.
+
+</summary>
 
 ## "Hard" Technical Skills
 
