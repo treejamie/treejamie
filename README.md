@@ -49,6 +49,14 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 #### Next.js
 
+### Deployment / Containerisation
+
+#### Docker
+
+#### Podman
+
+#### Kubernetes
+
 ### Documentation / Collaboration
 
 #### Sphinx / Read The Docs / SSG's
