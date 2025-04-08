@@ -39,9 +39,21 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 #### Django
 
+#### Fast API
+
 #### Phoenix
 
 #### Next.js
+
+### Documentation / Collaboration
+
+#### Sphinx / Read The Docs / SSG's
+
+#### OpenAPI / Swagger
+
+#### ♥️ Elixir (@moduledoc, @doc, @typedoc)
+
+#### Confluence / Notion
 
 ### Continous Integration (CI) / Continous Deployment (CD)
 
@@ -92,6 +104,8 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 ### Testing
 
 #### Unit / Integration Tests
+
+#### ♥️ Elixir - doctest
 
 #### Smoke Tests / End to End
 
