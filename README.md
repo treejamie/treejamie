@@ -52,13 +52,13 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 #### PostgreSQL
 
-### MySQL / Maria
+#### MySQL / Maria
 
-### Redis
+#### Redis
 
-### Memcached
+#### Memcached
 
-### RabbitMQ
+#### RabbitMQ
 
 ## "Soft" Technical Skills
 
@@ -72,11 +72,33 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 #### CVS 😱
 
-### Agile / Workflow
+### Workflow
 
-#### Sprint planning
+#### Waterfall
+
+#### Kanban
+
+#### Agile
+
+#### Sprint
 
 ### Testing
+
+#### Unit / Integration Tests
+
+#### Smoke Tests / End to End
+
+#### External Services
+
+#### Penetration Testing
+
+#### Security Scanning
+
+### Performance
+
+#### Newrelic / App Monitoring
+
+#### CLI
 
 ## Governance
 
@@ -95,6 +117,10 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 ### Communication 
 
 ### Hiring / Firing
+
+#### Hiring and recruitment managing
+
+#### Letting people go - an awful business.
 
 
 ## CV
