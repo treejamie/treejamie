@@ -116,6 +116,14 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 ### Communication 
 
+#### Written
+
+#### Audio
+
+#### Video
+
+#### In-person
+
 ### Hiring / Firing
 
 #### Hiring and recruitment managing
