@@ -104,13 +104,41 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 ### Information Security
 
+#### Red / Blue / Purple Team
+
 ### Data Protection
+
+#### UK Data Protection Act
+
+#### GDPR
+
+#### Global Data Protection Landscape
 
 ### Cyber Security
 
-### IS27001 / SOC II
+#### Fleet Management
+
+#### BYOD
+
+#### Lifecycle
+
+### ISO 27001 / SOC II
+
+#### Gap Analysis
+
+#### Risk Posture
+
+#### Implementation
 
 ### Vendor Security Assessments
+
+#### Preparation
+
+#### Evidence
+
+#### Navigating Procurement Channels
+
+#### Assessing your own supply chain
 
 ## Soft Skills
 
