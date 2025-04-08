@@ -38,6 +38,28 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 #### Next.js
 
+### Continous Integration (CI) / Continous Deployment (CD)
+
+#### Jenkins
+
+#### Github Actions
+
+#### Makefiles 😕
+
+#### Circle CI / <insert provider name here>
+
+### Databases / Queues
+
+#### PostgreSQL
+
+### MySQL / Maria
+
+### Redis
+
+### Memcached
+
+### RabbitMQ
+
 ## "Soft" Technical Skills
 
 ### Source Code Management
@@ -62,9 +84,17 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 ### Data Protection
 
+### Cyber Security
+
 ### IS27001 / SOC II
 
 ### Vendor Security Assessments
+
+## Soft Skills
+
+### Communication 
+
+### Hiring / Firing
 
 
 ## CV
