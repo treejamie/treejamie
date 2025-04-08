@@ -12,7 +12,7 @@ Before I went to a backend only role in 2015/6 I was full stack and I'd like to 
 ## Skills
 <details>
 
-<summary> Collapse this section. It's long and I presumed you didn't want to read it. </summary>
+<summary> Expand this section. It's long, so I've hidden it by default. </summary>
 
 ### todo
 
