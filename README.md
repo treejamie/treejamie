@@ -12,15 +12,11 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 ## Skills
 <details>
 
-<summary> 
-
-Expand this section. It's long, so I've hidden it by default. 
-
-One word of caution. This list has taken me over 27 years of career to develop. For the next 20 years of my career away from trees, I am specifically interested in being a programmer, maybe a lead / senior. I climb trees now, not career ladders.
+<summary> ⚠️ This is a long section, so I have collapsed it as a default. This list has taken me over 27 years of career to develop. For the next 20 years of my career away from trees, I am specifically interested in programming / development roles. I climb trees now, not career ladders.
 
 </summary>
 
-## "Hard" Technical Skills
+## 🛠️ "Hard" Technical Skills
 
 ### Backend
 
@@ -66,7 +62,7 @@ One word of caution. This list has taken me over 27 years of career to develop. 
 
 #### RabbitMQ
 
-## "Soft" Technical Skills
+## 💾 "Soft" Technical Skills
 
 ### Source Code Management
 
@@ -88,6 +84,8 @@ One word of caution. This list has taken me over 27 years of career to develop. 
 
 #### Sprint
 
+#### Lean / MVP
+
 ### Testing
 
 #### Unit / Integration Tests
@@ -106,7 +104,7 @@ One word of caution. This list has taken me over 27 years of career to develop. 
 
 #### CLI
 
-## Governance
+## ⚖️ Governance
 
 ### Information Security
 
@@ -146,7 +144,7 @@ One word of caution. This list has taken me over 27 years of career to develop. 
 
 #### Assessing your own supply chain
 
-## Soft Skills
+## 🧑‍💼 Soft Skills
 
 ### Communication 
 
