@@ -6,7 +6,7 @@ I've been involved with the design, development and deployment of web applicatio
 
 I've got an [active Github project](https://github.com/users/treejamie/projects/2) where you can see what I'm up to. I've tried to keep the project in sprints so you can see that "know what I'm doing" when working in as a software person in a team of people. CI/CD is baked into all my repos through Github actions. Web stuff deploys via Docker images to various locations.
 
-Before I went to a backend only role in 2015/6 I was full stack and I'd like to get back there again so I'm spending time on JavaScript / TypeScript and the ecosystems of libraries and frameworks that surround them. Backend wise, i'm concentrating on learning Go, Rust and understanding web assembly.
+Before I went to a backend only role in 2015 I was full stack. I miss that, so I'm spending time on JavaScript / TypeScript and the various ecosystems of libraries and frameworks that surround the modern frontend. Backend wise, i'm concentrating on learning Go, Rust and understanding web assembly. I've also been noticably focused on web contexts in my career so far and I'm quite excited to get into some app development. Particularly for some Tree Surveying ideas that I have.
 
 
 ## Skills
@@ -14,8 +14,30 @@ Before I went to a backend only role in 2015/6 I was full stack and I'd like to 
 
 <summary> Expand this section. It's long, so I've hidden it by default. </summary>
 
-### todo
+## "Hard" Technical Skills
 
-..todo
+### Backend
+
+#### Python
+
+#### Elixir
+
+#### Go / Rust
+
+### Frontend
+
+#### TypeScript
+
+#### JavaScript
+
+### Frameworks / Libraries
+
+#### Django
+
+#### Phoenix
+
+#### Next.js
+
+
 
 </details>
