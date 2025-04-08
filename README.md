@@ -11,7 +11,7 @@ Before I went to a backend only role in 2015/6 I was full stack and I'd like to 
 
 <details>
 
-<summary>Long list of skills </summary>
+<summary>## Skills</summary>
 
 ### todo
 
