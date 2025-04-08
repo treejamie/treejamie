@@ -9,9 +9,10 @@ I've got an [active Github project](https://github.com/users/treejamie/projects/
 Before I went to a backend only role in 2015/6 I was full stack and I'd like to get back there again so I'm spending time on JavaScript / TypeScript and the ecosystems of libraries and frameworks that surround them. Backend wise, i'm concentrating on learning Go, Rust and understanding web assembly.
 
 
+## Skills
 <details>
 
-<summary>## Skills</summary>
+<summary> It's a long list, so it is collapseable </summary>
 
 ### todo
 
