@@ -19,7 +19,7 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 ## Skills
 <details>
 
-<summary> ⚠️ This is a long section, so I have collapsed it as a default. This list has taken me over 27 years of career to develop. For the next 20 years of my career away from trees, I am specifically interested in programming / development roles. I climb trees now, not career ladders.
+<summary> ⚠️ This is a long section, so I have collapsed it as a default. This list has taken me over 27 years of career to develop. For the next 20 years of my career, I am specifically interested in programming / development roles that develop software, deploy software and being part of highly functional cross-discipline team that gets stuff done. 
 
 </summary>
 
