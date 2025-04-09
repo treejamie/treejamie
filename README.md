@@ -57,6 +57,8 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 #### Kubernetes
 
+#### Vercel / Fly.io / Netlify / Render / Heroku etc
+
 ### Documentation / Collaboration
 
 #### Sphinx / Read The Docs / SSG's
@@ -102,8 +104,7 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 #### VSCODE
 
-
-
+#### TextMate
 
 ### Source Code Management
 
