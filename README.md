@@ -91,6 +91,20 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 ## 💾 "Soft" Technical Skills
 
+### Text Editors / IDES
+
+#### VIM
+
+##### ~EMACS~ 
+^ never
+
+#### Jetbrains (PyCharm, Intellij etc)
+
+#### VSCODE
+
+
+
+
 ### Source Code Management
 
 #### git
