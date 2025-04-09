@@ -116,7 +116,7 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 #### CVS 😱
 
-### Workflow
+### Workflow Methodologies
 
 #### Waterfall
 
@@ -125,6 +125,16 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 #### Agile
 
 #### Sprint
+
+### Workflow Software
+
+#### A whiteboard (favourite)
+
+#### Trello
+
+#### Jira
+
+#### YouTrack
 
 #### Lean / MVP
 
