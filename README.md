@@ -39,7 +39,11 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 
 #### JavaScript
 
-### Frameworks / Libraries
+#### CSS / SCSS
+
+#### Bootstrap / Tailwind
+
+### Frameworks / Libraries / Misc
 
 #### Django
 
@@ -48,6 +52,8 @@ Before I went to a backend only role in 2015 I was full stack. I miss that, so I
 #### Phoenix
 
 #### Next.js
+
+#### GraphQL
 
 ### Deployment / Containerisation
 
