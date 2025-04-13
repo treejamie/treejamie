@@ -64,13 +64,13 @@ So I went and got certified as an [ISO27001 lead implementor][7] and by early 20
 
 When the global lockdowns hit, everything changed. I live in a dense urban area, but by good fortune I overlook a young, early-mature woodland growing atop an old colliery slag heap. Before lockdown, I hadn’t really seen the trees. But from March to July, I watched them spring into life as I worked at my desk. I didn’t know much about woodlands then, but I clearly remember the ground and field layers emerging first, followed by the shrub layer, then the understory, and finally the canopy. It was a system — not like the pipe systems I drew as a child, but a system of nature. I sat in my office chair (well, bedroom technically), watching a planet-wide system that could deploy anywhere and sustain itself. In this system, bugs were a feature.
 
-## SoLong SoPost
+## SoLong
 
 By the end of 2021, things had mostly calmed down, and as a business, we finally came together for the first time since 2019. As CTO, I was used to public speaking and quite enjoyed it. I got up to give a talk to 120 people called something like “Why Your Day and IT Should Be Boring.” I walked on stage and took a photo of everyone. Then something happened. Just like hearing myself on Radio 1 at a party years ago, I felt joy and uncertainty. The joy was that whatever I’d set out to do at SoPost had been done. The uncertainty was: What now?
 
 Back in 2003, that question was easy to mask with another drink. But a) I’ve been teetotal since 2007, and b) I had 120 people in front of me expecting an engaging talk. I delivered it, but it was a slog. The next day, I informally resigned, and we agreed on a nine-month notice period. I'd been at the company since its inception nine years earlier. I didn't want any bumps in my exit and we still had to complete the ISO27001 audits. Personally, I had no idea what was next for me. It was a total leap of faith (_or a midlife crisis - it is hard to tell them apart_) — but I had until October 8th, 2022, to figure it out. I was tired. I’d been working flat out since 2004 without pause.
 
-## Hello Nature
+## Trees & Code
 
 In March 2022, for various reasons, we bought an eight-acre parcel of a 222-acre ancient semi-natural woodland. I remember thinking: I could either learn to work with trees — climbing, pruning, managing windfall — or pay a fortune for others to do it. So I enrolled in a two-year Forestry & Arboriculture course at Houghall Campus in Durham and it started that September. 
 
