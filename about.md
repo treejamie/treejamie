@@ -10,7 +10,7 @@ Sometime in the late nineties, I became aware of the internet. The band I was in
 
 ## ActionScript & PHP
 
-By 2004, I’d self-taught enough to land a job as a “web designer.” I’d completed a BA in Multimedia Design and was skilled in Flash ([ActionScript 2/3 – essentially ES3][1]) and Director (Lingo). PHP was catching on, but that was for “backend” people — I was frontend. Back then, there was no line between work and personal time. For three solid years, I designed in Flash, XHTML, CSS, and JavaScript. Still, I was a designer with trust issues, so I often wrote backend code too — just to be sure it worked. PHP felt dreamy: write code right on the page, have Apache run FastCGI, and off you go. I shudder now, but at the time it was liberating. Days were for building; nights were for books, scripts, and personal projects. We had [CVS][3] instead of git and we transfered everything via FTP (>_<). Drag and drop deployment at it's best vintage.
+By 2004, I’d self-taught enough to land a job as a “web designer.” I’d completed a BA in Multimedia Design and was skilled in Flash ([ActionScript 2/3 – essentially ES3][1]) and Director (Lingo). PHP was catching on, but that was for “backend” people — I was frontend. Back then, there was no line between work and personal time. For three solid years, I designed in Flash, XHTML, CSS, and JavaScript. Still, I was a designer with trust issues, so I often wrote backend code too — just to be sure it worked. PHP felt dreamy: write code right on the page, have Apache run FastCGI, and off you go. I shudder now, but at the time it was liberating. Days were for building; nights were for books, scripts, and personal projects. We had [CVS][3] instead of git and we transferred everything via FTP (>_<). Drag and drop deployment at its best vintage.
 
 ## Django
 
@@ -19,13 +19,13 @@ At d.Construct 2006 in Brighton, I met a guy called James. He’ll never know it
 
 ## C&C Design Consultants
 
-From 2007 to 2013, I built over a hundred Django sites — six years of trial by fire. By the end, I felt like I could do anything with it. We'd built intranets, ecommerce websites (_handrolled, not satchmo_) brochure sites and even tackled a couple of failed self startup ideas.  Subversion and SFTP had become primitive CI & CD. A fabfile would run tests and if they passed it would then deploy to a server, collect staticfiles and if that passed do the database migrations.
+From 2007 to 2013, I built over a hundred Django sites — six years of trial by fire. By the end, I felt like I could do anything with it. We'd built intranets, ecommerce websites (_handrolled, not satchmo_) brochure sites and even tackled a couple of failed self startup ideas.  Subversion and SFTP had become primitive CI & CD. A fabfile would run tests and if they passed it would then deploy to a server, collect static files and if that passed do the database migrations.
 
 But I had itchy feet. I’m not really a businessman at heart, so we closed the company and went our separate ways. Around that time, startup fever was taking off in the North East of England. 
 
 ## Startup SoPost
 
-I met a young hustler looking for someone who knew Django inside out to “build the address layer” for the internet. Before long, we were working together and pivoted into a digital product sampling platform called [SoPost][4]. Until then, I’d been good at getting things done — but not necessarily at scale. Over the next three years, I had the most intense learning experience of my life. We’d built the platform in Django, which was great — but when 3,000 people hit your server at once, you need to be ready for it. Stock Django will let you fail and very publically. PGBouncer, caching and the ability to rapidly spin up instances to handle traffic based on loadbalancer information is critical. CI & CD was maturing into a modern workflow based on [Jenkins][5] and the [Git Workflow][6].
+I met a young hustler looking for someone who knew Django inside out to “build the address layer” for the internet. Before long, we were working together and pivoted into a digital product sampling platform called [SoPost][4]. Until then, I’d been good at getting things done — but not necessarily at scale. Over the next three years, I had the most intense learning experience of my life. We’d built the platform in Django, which was great — but when 3,000 people hit your server at once, you need to be ready for it. Stock Django will let you fail and very publicly. PGBouncer, caching and the ability to rapidly spin up instances to handle traffic based on loadbalancer information is critical. CI & CD was maturing into a modern workflow based on [Jenkins][5] and the [Git Workflow][6].
 
 ## Scaleup SoPost
 
@@ -35,7 +35,7 @@ By 2016, SoPost was growing fast. I was lucky to hire skilled people, and while 
 
 2016–2018 was another intense learning phase. InfoSec, data protection, cybersecurity, IT fleet management, contracts, and a lot of HR landed on my desk — the reality of scale-ups with no room yet for full-time roles in those areas. The code I wrote was mostly glue code, often in Python. The company had moved to Elixir and Elm for production, but glue work wasn’t easily done in Elixir — it was still a niche language in 2018. 
 
-I was also getting tired of having to explain to customers why we were not on a track to getting ISO27001 when in procurement pipelines. The big globals expect you to have and ISMS and if you do, then it's the difference between... actually let me explain it in elixir.
+I was also getting tired of having to explain to customers why we were not on a track to getting ISO27001 when in procurement pipelines. The big globals expect you to have an ISMS and if you do, then it's the difference between &hellip; actually let me explain it in elixir.
 
 ```elixir
 
@@ -68,13 +68,13 @@ When the global lockdowns hit, everything changed. I live in a dense urban area,
 
 By the end of 2021, things had mostly calmed down, and as a business, we finally came together for the first time since 2019. As CTO, I was used to public speaking and quite enjoyed it. I got up to give a talk to 120 people called something like “Why Your Day and IT Should Be Boring.” I walked on stage and took a photo of everyone. Then something happened. Just like hearing myself on Radio 1 at a party years ago, I felt joy and uncertainty. The joy was that whatever I’d set out to do at SoPost had been done. The uncertainty was: What now?
 
-Back in 2003, that question was easy to mask with another drink. But a) I’ve been teetotal since 2007, and b) I had 120 people in front of me expecting an engaging talk. I delivered it, but it was a slog. The next day, I informally resigned, and we agreed on a nine-month notice period. I'd been at the company since it's inception nine years earlier. I didn't want any bumps in my exit and we still had to complete the ISO27001 audits. Personally, I had no idea what was next for me. It was a total leap of faith (_or a midlife crisis - it is hard to tell them apart_) — but I had until October 8th, 2022, to figure it out. I was tired. I’d been working flat out since 2004 without pause.
+Back in 2003, that question was easy to mask with another drink. But a) I’ve been teetotal since 2007, and b) I had 120 people in front of me expecting an engaging talk. I delivered it, but it was a slog. The next day, I informally resigned, and we agreed on a nine-month notice period. I'd been at the company since its inception nine years earlier. I didn't want any bumps in my exit and we still had to complete the ISO27001 audits. Personally, I had no idea what was next for me. It was a total leap of faith (_or a midlife crisis - it is hard to tell them apart_) — but I had until October 8th, 2022, to figure it out. I was tired. I’d been working flat out since 2004 without pause.
 
 ## Hello Nature
 
 In March 2022, for various reasons, we bought an eight-acre parcel of a 222-acre ancient semi-natural woodland. I remember thinking: I could either learn to work with trees — climbing, pruning, managing windfall — or pay a fortune for others to do it. So I enrolled in a two-year Forestry & Arboriculture course at Houghall Campus in Durham and it started that September. 
 
-The plan was to earn an income through my third limited company, Trees & Code, doing software contracting around my studies. Once the [tree work qualifications (“tickets”) started coming in from 2023–24][8], I was spending more time up trees than writing code. In hindsight, I needed the break — from desks, chairs, and being indoors every day. My GitHub activity in 2023 and 2024 reflects that. When I wasn’t doing my own tree jobs, I was doing other tree jobs. When I wasn’t on a job tree job, I was in my woodland. Or someone else’s. I was still writing code, but not a lot. I wasn't sad about this as I was earning on tree work.
+The plan was to earn an income through my third limited company, Trees & Code, doing software contracting around my studies. Once the [tree work qualifications (“tickets”) started coming in from 2023–24][8], I was spending more time up trees than writing code. In hindsight, I needed the break — from desks, chairs, and being indoors every day. My GitHub activity in 2023 and 2024 reflects that. When I wasn’t doing my own tree jobs, I was doing other tree jobs. When I wasn’t on a tree job, I was in my woodland. Or someone else’s. I was still writing code, but not a lot. I wasn't sad about this as I was earning on tree work.
 
 But paradise had its cracks.
 
@@ -88,7 +88,7 @@ Back in 2010, I completed a PGCE in post-compulsory education. I never used it �
 
 Starting at the college felt familiar — digital calendars were back, and weather didn’t affect your clothing. But it also felt alien: everything was Microsoft Office and Windows 🤢. My plan was to teach during the week (on a salary half that of tech) and do tree work on weekends to build up business funds for a van, quad bike, trailer — maybe even a micro digger. I already had saws, climbing gear, and rigging kit. I'd eventually make up the difference in salaries from dividends from the business.  The reality was that evenings and weekends vanished into lesson planning.Progress felt painfully slow and very dumb. In Big O terms, it was `O(n!)`. Teaching nine lessons a week, every week, with no room to slip on planning — it’s a special kind of hell. 
 
-I was spending all my time in a room, at a desk, so that I could do my job in another room, at another desk, to talk about trees and look at then on a screen or through a window. There was no time for tree work — however, I massively leveled up in tree science, woodland management, ecology based legislation, and teaching. But I was starting to think I'd made a career mistake.
+I was spending all my time in a room, at a desk, so that I could do my job in another room, at another desk, to talk about trees and look at them on a screen or through a window. There was no time for tree work — however, I massively leveled up in tree science, woodland management, ecology based legislation, and teaching. But I was starting to think I'd made a career mistake.
 
 ## Christmas 2024
 
@@ -118,7 +118,7 @@ I'd decided that my spare time was going to [Dendromeda][10] — a tool to surve
 So, with New Year approaching, I made five resolutions:
 
 1. No more planning college work during personal time.
-2. Learn to touch type — properly this time, like the solid devs I admired at SoPost.
+2. Learn to touch type properly, like the engineers I admired at SoPost.
 3. Design myself a basic computer science curriculum and become language agnostic.
 4. I would seek out a position as a programmer. It has to be remote and ideally four days a week. I'd take five on my first job, but after that four was mandatory. Time is precious.
 
@@ -132,7 +132,7 @@ I actually resigned on January the 8th 2025. My last day was March 14th, which w
 
 I meditate. One of the ideas in meditation that you're working on is that you are who you decide to be. You’re not really you. You’re the residue of your choices and the result of the stories you tell yourself. I've told myself a bunch of stories over the years. I’m a drummer and so I ended up in a Band. I’m a web designer and developer and so I ended up running a web design and development company. I’m a lead engineer in a startup company, I’m a CTO in a scale up, I’m a CIO in a scale up. I'm the guy who's left tech to go work on trees. At start of each of those chapters there was a story that had a beginning a middle and an end.
 
-Another central idea in meditation is that there are only ever three states available to a human through the whole of their conscious life.  There's the bit where you notice you're distracted. Then there's the bit where you are distracted. Then finally there's the bit where you recover from the distraction and become aware.
+Meditation teaches that three states define conscious life. There's the bit where you notice you're distracted. Then there's the bit where you are distracted. Then finally there's the bit where you recover from the distraction and become aware.
 
 I've told myself a number of stories. They have a start a middle and an end. Everything does. The story I'm telling myself now is that my name is Jamie Curle. I live in Northumberland, UK. I write code, I’m an arborist and I manage my own ancient semi-natural woodland.
 
