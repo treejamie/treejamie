@@ -1,6 +1,6 @@
 ## Hello
 
-[I am currently seeking gainful employment.](https://github.com/users/treejamie/projects/2/views/2?sliceBy%5Bvalue%5D=WEEK+8&pane=issue&itemId=103378525&issue=treejamie%7Cjc6%7C2)
+[I am currently seeking gainful employment.](https://jamiecurle.com/)
 
 ### A bit about me
 
