@@ -16,5 +16,8 @@ My CV is available on request — just drop me a line at [jamie@curle.io][0].
 
 You can find out more [about me on my personal website][1].
 
+Here's my personal backlog if you want to see [EVERYTHING][2] I'm doing right now. 
+
 [0]: mailto:jamie@curle.io  
 [1]: https://jamiecurle.com/about
+[2]: https://github.com/users/treejamie/projects/2
