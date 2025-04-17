@@ -1,13 +1,20 @@
-## Hello
+### I’m Jamie Curle.
 
-I'm Jamie Curle.
+I’ve been designing, developing, and deploying web applications (_and all sorts of web “stuff”_) since the late 1990s. I worked in various individual contributor roles (_design/development_) until 2016, when I moved into engineering leadership and spent six years as a CTO.
 
-I've been involved with the design, development and deployment of web applications and web "stuff" since the late 1990s. I was in IC roles until 2016 when I switched into the EM track and spent six years as a CTO. Around 2022, I started my own company so I could return to my "on the tools" roots. I also bought an ancient semi-natural woodland (_ASNW_) and spent some of my time in the last few years becoming professionally trained (_NPTC and L3 Arb_) in arboriculture, woodland management and forestry. Most recently I spent a bit of time teaching Trees & Woodland Management in an FE college. As much I enjoy teaching, I miss deep technical work.
+In 2022, I started my own company to return to my “on the tools” (IC) roots. Around the same time, I bought an ancient semi-natural woodland (ASNW) and trained professionally (NPTC and Level 3 Arb) in arboriculture, woodland management, and forestry. Most recently, I taught Trees & Woodland Management at an FE college — something I genuinely enjoyed. But I miss deep technical work.
 
+---
 
-## Seeking a Role that fits well.
+### Looking for the right fit.
 
-Currently I'm looking for a role that is remote and whose end result is a positive for either local communities, ecosystems or the planet as a whole.
+Now that I have my woodland to care for — and a relentless desire to move and work — I’m back looking for an individual contributor role in software engineering. It’s a return to my roots, if you’ll forgive the tree pun.
 
-My CV is available by request, drop me an email to [jamie@curle.io](mailto:jamie@curle.io) if you'd like to ask for copy. Find out [more about me on my personal website.](https://jamiecurle.com/about)
+I’m currently seeking a remote role where the end result contributes positively to local communities, ecosystems, or the planet as a whole.
 
+My CV is available on request — just drop me a line at [jamie@curle.io][0].  
+
+You can find out more [about me on my personal website][1].
+
+[0]: mailto:jamie@curle.io  
+[1]: https://jamiecurle.com/about
