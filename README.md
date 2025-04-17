@@ -2,7 +2,7 @@
 
 I’ve been designing, developing, and deploying web applications (_and all sorts of web “stuff”_) since the late 1990s. I worked in various individual contributor roles (_design/development_) until 2016, when I moved into engineering leadership and spent six years as a CTO.
 
-In 2022, I started my own company to return to my “on the tools” (IC) roots. Around the same time, I bought an ancient semi-natural woodland (ASNW) and trained professionally (NPTC and Level 3 Arb) in arboriculture, woodland management, and forestry. Most recently, I taught Trees & Woodland Management at an FE college — something I genuinely enjoyed. But I miss deep technical work.
+In 2022, I started my own company to return to my “on the tools” (IC) roots. Around the same time, I bought an ancient semi-natural woodland (_ASNW_) and trained professionally (_NPTC and Level 3 Arb_) in arboriculture, woodland management, and forestry. Most recently, I taught Trees & Woodland Management at an FE college — something I genuinely enjoyed. But I miss deep technical work.
 
 ---
 
