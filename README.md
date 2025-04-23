@@ -8,7 +8,7 @@ In 2022, I started my own company to return to my “on the tools” (IC) roots.
 
 ### Looking for the right fit.
 
-Now that I have my woodland to care for — and a relentless desire to move and work — I’m back looking for an individual contributor role in software engineering. It’s a return to my roots, if you’ll forgive the tree pun.
+My woodland takes care of my relentless desire to physically move. But I also have a need for deep technical work and so I’m looking for an individual contributor role in software engineering. It’s a return to my roots, if you’ll forgive the tree pun.
 
 I’m currently seeking a remote role where the end result contributes positively to local communities, ecosystems, or the planet as a whole.
 
