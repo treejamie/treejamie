@@ -8,9 +8,7 @@ In 2022, I started my own company to return to my “on the tools” (IC) roots.
 
 ### Looking for the right fit.
 
-My woodland takes care of my relentless desire to physically move. But I also have a need for deep technical work and so I’m looking for an individual contributor role in software engineering. It’s a return to my roots, if you’ll forgive the tree pun.
-
-I’m currently seeking a remote role.
+My woodland takes care of my relentless desire to physically move. But I also have a need for deep technical work and so I’m looking for a remote individual contributor role in engineering. If you’ll forgive the tree pun, it is a return to my roots.
 
 My CV is available on request — just drop me a line at [jamie@curle.io][0].  
 
