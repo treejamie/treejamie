@@ -8,9 +8,9 @@ In 2022, I started my own company to return to my “on the tools” (IC) roots.
 
 ### Looking for the right fit.
 
-My woodland takes care of my need to physically work. But I also have a needs for technical work and collaboration, I'm not sure what role that looks like, but it'll be something that is a good fit for me and a good fit for the organisation I join. 
+My woodland takes care of my need to physically work. But I also need technical work and collaboration with other people. I'm not sure what role that is called or what it looks like, but the right one will be a good fit for me and the organisation I join. 
 
-If you’ll forgive the tree pun, it is a return to my roots and until I find that role, I'll be writing code at my desk, making stuff from wood in the workshop or (more likley) out in the woods putting native broadleave woodlands back into a managed state.
+If you’ll forgive the tree pun, it is a return to my roots. Until I find that role, I'll be writing code at my desk, in the workshop making stuff from the materials I've harvested or (_more likley_) out in the woods putting semi-ancient and recently planted native broadleaf woodlands back into a managed state.
 
 My CV is available on request — just drop me a line at [jamie@curle.io][0].  
 
