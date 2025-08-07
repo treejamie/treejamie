@@ -15,7 +15,7 @@ I've got a nice balance in my life now. I have the woodland to get me outside an
 
 So I'm looking for a role where I can fit in and be challenged. Senior or Lead — I’m happy on either path.
 
-Until I find that role, I'll be chugging along on [Trees & Code][2]. My moonshot idea to level up arborists all around the world with accessible hardware and software to assist them in managing and caring for tree populations in urban and woodland settings.
+Until I find that role, I'll be chugging along on [Trees & Code][2]. It's my moonshot idea to level up arborists all around the world with accessible hardware and software to assist them in managing and caring for tree populations in urban and woodland settings.
 
 ## Want to talk?
 
