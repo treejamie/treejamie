@@ -8,9 +8,6 @@ I design, develop and deploy code, and I can lead, engage and develop people.
 
 I'm at my best in a team.
 
-I'm happiest alone.
-
-The dichotomy.
 
 ## Want to talk?
 
