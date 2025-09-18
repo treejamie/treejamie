@@ -4,9 +4,9 @@ I design, develop and deploy code, and I can lead, engage and develop people. I 
 
 I’ve been designing, developing, and deploying web applications (_and all sorts of web “stuff”_) since the late 1990s. I worked in various individual contributor (IC) roles (_design/development_) until 2016, when I started transitioning into engineering management (EM) roles (_senior, lead, head and eventually CTO & CIO_). I can do both roles well (_or so people tell me_) and although they're different in a fundamental way, I experience joy.
 
-I am currently seeking a full-time job (_remote, and ideally four days a week, but that's not a show stopper_), but it has to be the right one. Until then I'll keep chipping away in my own business (Trees & Code) where I write technical proposals, manage delivery and communication to stakeholders whilst also doing all of the engineering, design and devops work required to take projects from proposal to final delivery and hand over. 
+I am currently seeking a full-time job (_remote, and ideally four days a week, but that's not a show stopper_), something that I can get my teeth into over the next five years, but it has to be the right one. Until I find that role, I'll be powering on under my own steam.
 
-I also own a woodland, which I manage myself. I do the odd bit of tree work (_I'm a qualified arborist_) and spend any spare time I have left in my workshop.
+I also own a woodland, which I manage myself. I do the odd bit of tree work (_I'm a qualified arborist_) and spend any spare time I have left in my workshop. If you ask really nicely, I may come and take care of your trees for a modest fee.
 
 
 
