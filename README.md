@@ -13,10 +13,11 @@ In early 2025 I returned to the techword hoping to get job in IC/EM so I could s
 
 If you want to chat, drop me an email to [jamie@curle.io][0].  
 
-You can find out more [about me on my personal website][1] or go subscribe to my new substack - [Tree Jamie][3].
+You can find out more [about me on my personal website][1] or go subscribe to my new code orientated substack - [Tree Jamie][3].  If you want to read about my time in treeworld, go subscribe to [Life of Treedom][5]. 
 
 [0]: mailto:jamie@curle.io  
 [1]: https://jamiecurle.com/about
 [2]: https://treesandcode.com
 [3]: https://treejamie.com
 [4]: https://privacyposture.com
+[5]: https://lifeoftreedom.com
