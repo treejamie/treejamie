@@ -4,7 +4,9 @@ I design, develop and deploy code, and I can lead, engage and develop people. I 
 
 I’ve been designing, developing, and deploying web applications (_and all sorts of web “stuff”_) since the late 1990s. I worked in various individual contributor (IC) roles (_design/development_) until 2016, when I started transitioning into engineering management (EM) roles (_senior, lead, head and eventually CTO & CIO_). I can do both roles well (_or so people tell me_) and although they're different in a fundamental way, I experience joy doing both.
 
-I also own a woodland, which I manage myself. I do the odd bit of tree work (_I'm a qualified arborist_) and spend any spare time I have left in my workshop. If you ask really nicely, I may come and take care of your trees for a modest fee.
+In 2022 I took a few years away from techworld to go and study arboriculture and woodland management. I also own a woodland, which I manage myself using my newly learned skills. I do the odd bit of tree work (_I'm a qualified arborist_) and spend any spare time I have left in my workshop. If you ask really nicely, I may come and take care of your trees for a modest fee.  
+
+In early 2025 I returned to the techword hoping to get job in IC/EM so I could spend my time between the woods and a desk job. However, somewhere between 2022 and 2025 hiring became silly and I found it really hard to get a job. "Thanks but no thanks, and no reasons" was the norm so in late 2025 I took that as a chance to become a founder of my thing - [Privacy Posture][4]. 
 
 
 ## Want to talk?
@@ -17,4 +19,4 @@ You can find out more [about me on my personal website][1] or go subscribe to my
 [1]: https://jamiecurle.com/about
 [2]: https://treesandcode.com
 [3]: https://treejamie.com
-
+[4]: https://privacyposture.com
