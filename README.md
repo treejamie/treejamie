@@ -1,4 +1,4 @@
-Lead Software Engineer specialising in Elixir, privacy engineering, and security-first systems. Part-time arborist and aspiring woodsman.
+CTO / Technical Lead / Engineer specialising in Elixir, privacy engineering, and security-first systems. Part-time arborist and aspiring woodsman.
 
 I build robust, privacy-respecting systems and lead engineering teams that ship with confidence. 
 
