@@ -10,4 +10,8 @@ I specialise in Elixir/OTP systems normally based around Phoenix and LiveView (b
 
 Currently pursuing CIPP/E certification to formalise my privacy engineering expertise, with CISSP to follow.
 
-I thrive in small, high-trust environments where engineering standards are non-negotiable and competence speaks for itself. Available for full-time lead roles or specialised consultancy through Trees & Code.
+I thrive in small, high-trust environments where engineering standards are non-negotiable and competence speaks for itself. 
+
+Available for full-time technical exec / lead roles or specialised consultancy through Trees & Code.
+
+The adventure never stops.
